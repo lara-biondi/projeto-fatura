@@ -1,6 +1,6 @@
-Simulador de Fatura de Cartão de Crédito
+Simulador de Fatura de Cartão de Crédito (primeiro codigo feito )
 
-Descrição do Projeto: Este projeto foi solicitado pela professora Maiara Sacramento do 2° Semestre da faculdade Unime Anhanguera do polo Paralela - Salvador Bahia. Foi abordado a possibilidade de criar em três métodos #SouDev, #SouData e #SouSolver.
+Descrição do Projeto: Este projeto foi solicitado pela professora Maiara Sacramento do 1° Semestre da faculdade Unime Anhanguera do polo Paralela - Salvador Bahia. Foi abordado a possibilidade de criar em três métodos #SouDev, #SouData e #SouSolver.
 
 #SouDev: Implemente um programa que simule a lógica do cartão de crédito, conforme o cenário descrito. O código pode ser feito em qualquer linguagem de programação.
 
@@ -8,7 +8,7 @@ Descrição do Projeto: Este projeto foi solicitado pela professora Maiara Sacra
 
 #SouSolver: Crie um fluxograma ou diagrama de processos que represente o funcionamento da lógica do pagamento e da cobrança de juros. Isso ajudará os analistas e front-end developers a visualizar o processo.
 
-Sendo assim, para realizar meu projeto optei em realizar como dev back-end, no meu projeto consiste no desenvolvimento de um codigo que simule a lógica de cálculo de uma fatura de cartão de crédito. O sistema permite que o usuário registre múltiplas compras, confira o valor acumulado, defina o dia de pagamento e calcule possíveis juros em caso de atraso no pagamento da fatura que é dia 25. Este simulador foi criado usando a linguagem de Python.
+Sendo assim, para realizar meu projeto optei em realizar como dev back-end, o projeto consiste no desenvolvimento de um codigo que simule a lógica de cálculo de uma fatura de cartão de crédito. O sistema permite que o usuário registre múltiplas compras, confira o valor acumulado, defina o dia de pagamento e calcule possíveis juros em caso de atraso no pagamento da fatura que é dia 25. Este simulador foi criado usando a linguagem de Python.
 
 Objetivo
 
